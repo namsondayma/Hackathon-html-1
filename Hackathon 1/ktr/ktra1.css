@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&family=Space+Grotesk:wght@500&display=swap');*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{   
+    font-size: 13px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.jenna-header {
+    width: 100%;
+    background-color: rgb(27, 33, 72);
+}
+.list{
+    list-style: none;
+}

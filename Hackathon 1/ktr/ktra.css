@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&family=Space+Grotesk:wght@500&display=swap');*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{   
+    font-size: 13px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.jenna-header {
+    width: 100%;
+    background-color: rgb(27, 33, 72);
+}
+.list{
+    list-style: none;
+}
+.jenna-navbar {
+    display: flex;
+}
+.navbar-list-item {
+    display: flex;
+    gap: 15px;
+    padding: 10px 24px;
+}
+.navbar-item {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;    
+}
+.blue-button{
+    display: flex;
+    color:aliceblue;
+    background-color: rgb(51, 147, 226);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 45px;
+}
+.navbar-items{
+    display: flex;
+    color: white;
+    font-size: 15px;
+    background-color:rgb(43, 43, 95);
+    align-items: center;
+    justify-content: center; 
+    width: 140px;
+    height: 30px;
+    margin-left: 80px;
+}
+.picture{
+    display: flex;
+    margin-left:800px;
+    width: 450px;
+    height:550px;
+    margin-top: -450px;
+}
+.hay{
+    display: flex;
+    margin-left: 80px;
+    color: white;
+    font-size: 60px;
+}
+.hey{
+    display: flex;
+    margin-left: 80px;
+    color: rgb(51, 142, 217);
+    font-size: 60px;
+}
+.hoy{
+    display: flex;
+    margin-left: 80px;
+    color: white;
+    font-size: 20px;
+}
+.button1{
+    display: flex;
+    color:aliceblue;
+    background-color: rgb(51, 147, 226);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 45px;
+    margin-left: 80px;
+    width: 140px;
+    height: 30px;
+}
+.icon{
+    display: flex;
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: -40px;
+}
+.picture1{
+    display: flex;
+    margin-left: 100px;
+    width: 400px;
+    height:500px;
+    margin-top: -300px;
+    margin-bottom: 100px;
+}
+.about-us{
+    display: flex;
+    color: white;
+    font-size: 15px;
+    background-color:rgb(43, 43, 95);
+    align-items: center;
+    justify-content: center; 
+    width: 140px;
+    height: 30px;
+    margin-left: 800px; 
+    margin-top: 150px;   
+}
+.UI-UX{
+    display: flex;
+    margin-left: 800px;
+    font-size: 45px;
+    color: aliceblue;
+}
+.ui-ux{
+    display: flex;
+    margin-left: 800px;
+    font-size: 45px;
+    color: rgb(51, 142, 217);
+}
+.hehe{
+    display: flex;
+    margin-left: 800px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.button{
+    display: flex;
+    margin-left: 480px;
+    width: 1000px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.button2{
+    display: flex;
+    color:aliceblue;
+    background-color: rgb(51, 147, 226);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 800px;
+    border-radius: 45px;
+    width: 140px;
+    height: 30px;
+}
+ 
